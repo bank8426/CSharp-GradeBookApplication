@@ -132,7 +132,7 @@ namespace GradeBook.GradeBooks
             {
                 gpa++;
             }
-            return 0;
+            return gpa;
         }
 
         public virtual void CalculateStatistics()
